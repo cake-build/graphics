@@ -1,4 +1,4 @@
-# Graphics
+# The graphical profile for Cake
 
 This repository contains graphics such as logotypes related to Cake.
 
